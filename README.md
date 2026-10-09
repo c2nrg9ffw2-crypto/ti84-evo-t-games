@@ -24,6 +24,7 @@ Every game is free, has its own page with a full guide, and was tested on a real
 | 💡 [**Lights Out**](https://github.com/c2nrg9ffw2-crypto/lightsout-ti84-evo-t) | Turn all the lights off. Every puzzle can be solved. | 1 (Easy / Medium / Hard) |
 | 🔵 [**Simon**](https://github.com/c2nrg9ffw2-crypto/simon-ti84-evo-t) | Watch the colours light up, then repeat the pattern. | 1 |
 | 🎲 [**Yahtzee**](https://github.com/c2nrg9ffw2-crypto/yahtzee-ti84-evo-t) | Roll 5 dice up to 3 times and score combinations. | 1–4 (computer players possible) |
+| 📦 [**Dots and Boxes**](https://github.com/c2nrg9ffw2-crypto/dots-ti84-evo-t) | Draw lines, close boxes and take them. | 2–4 (computer players possible) |
 
 Click a game to open its page. Each page explains the keys, the rules and the setup.
 
