@@ -9,7 +9,7 @@ Every game is free, has its own page with a full guide, and was tested on a real
 
 | Game | What it is | Players |
 |---|---|---|
-| 🧱 [**Tetris**](https://github.com/c2nrg9ffw2-crypto/tetris-ti84-evo-t) | Stack falling blocks and clear lines. Ghost piece, levels, high score. | 1 |
+| 🟦 [**Tetris**](https://github.com/c2nrg9ffw2-crypto/tetris-ti84-evo-t) | Stack falling blocks and clear lines. Ghost piece, levels, high score. | 1 |
 | 🐍 [**Snake**](https://github.com/c2nrg9ffw2-crypto/snake-ti84-evo-t) | Eat food and grow, but don't hit the wall or yourself. 3 speeds. | 1 |
 | 💣 [**Minesweeper**](https://github.com/c2nrg9ffw2-crypto/sweeper-ti84-evo-t) | Find all the safe squares without hitting a mine. | 1 |
 | ⭕ [**Tic-Tac-Toe 2**](https://github.com/c2nrg9ffw2-crypto/tictac2-ti84-evo-t) | Ultimate Tic-Tac-Toe: 9 small boards in 1 big board. | 1 (Easy / Medium / Hard) or 2 |
@@ -17,6 +17,7 @@ Every game is free, has its own page with a full guide, and was tested on a real
 | 🧩 [**Sudoku**](https://github.com/c2nrg9ffw2-crypto/sudoku-ti84-evo-t) | Fill the board with 1–9. Puzzles with exactly one solution. | 1 (Easy / Medium / Hard) |
 | 🔢 [**2048**](https://github.com/c2nrg9ffw2-crypto/2048-ti84-evo-t) | Slide and merge number tiles to reach 2048. | 1 |
 | 🔴 [**Connect Four**](https://github.com/c2nrg9ffw2-crypto/connect4-ti84-evo-t) | Get 4 discs in a row before your opponent. | 1 (Easy / Medium / Hard) or 2 |
+| 🧱 [**Breakout**](https://github.com/c2nrg9ffw2-crypto/breakout-ti84-evo-t) | Bounce the ball and break all the bricks. 3 lives, levels. | 1 |
 
 Click a game to open its page. Each page explains the keys, the rules and the setup.
 
