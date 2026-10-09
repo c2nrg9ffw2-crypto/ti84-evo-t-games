@@ -19,6 +19,7 @@ Every game is free, has its own page with a full guide, and was tested on a real
 | 🔴 [**Connect Four**](https://github.com/c2nrg9ffw2-crypto/connect4-ti84-evo-t) | Get 4 discs in a row before your opponent. | 1 (Easy / Medium / Hard) or 2 |
 | 🧱 [**Breakout**](https://github.com/c2nrg9ffw2-crypto/breakout-ti84-evo-t) | Bounce the ball and break all the bricks. 3 lives, levels. | 1 |
 | 🎨 [**Mastermind**](https://github.com/c2nrg9ffw2-crypto/mastermind-ti84-evo-t) | Crack the secret code of 4 colours in 10 tries. | 1 |
+| 🚢 [**Battleship**](https://github.com/c2nrg9ffw2-crypto/battleship-ti84-evo-t) | Sink all enemy ships. Place your own ships; a hit means fire again. | 1 or 2 |
 
 Click a game to open its page. Each page explains the keys, the rules and the setup.
 
