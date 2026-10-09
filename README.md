@@ -18,6 +18,7 @@ Every game is free, has its own page with a full guide, and was tested on a real
 | 🔢 [**2048**](https://github.com/c2nrg9ffw2-crypto/2048-ti84-evo-t) | Slide and merge number tiles to reach 2048. | 1 |
 | 🔴 [**Connect Four**](https://github.com/c2nrg9ffw2-crypto/connect4-ti84-evo-t) | Get 4 discs in a row before your opponent. | 1 (Easy / Medium / Hard) or 2 |
 | 🧱 [**Breakout**](https://github.com/c2nrg9ffw2-crypto/breakout-ti84-evo-t) | Bounce the ball and break all the bricks. 3 lives, levels. | 1 |
+| 🎨 [**Mastermind**](https://github.com/c2nrg9ffw2-crypto/mastermind-ti84-evo-t) | Crack the secret code of 4 colours in 10 tries. | 1 |
 
 Click a game to open its page. Each page explains the keys, the rules and the setup.
 
