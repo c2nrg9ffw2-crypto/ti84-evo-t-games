@@ -20,6 +20,18 @@ Every game is free, has its own page with a full guide, and was tested on a real
 
 Click a game to open its page. Each page explains the keys, the rules and the setup.
 
+## Download all games at once
+
+⬇️ **[Download all-games.zip](https://github.com/c2nrg9ffw2-crypto/ti84-evo-t-games/raw/main/all-games.zip)**
+(all 8 games in one file)
+
+1. Download the zip and **unzip** it (double-click it). You get 8 `.py` files.
+2. Connect the calculator and open **https://connectevo.ti.com** in **Chrome** or **Edge**.
+3. Select **all 8 files** and drag them onto the page together, then choose **RAM**.
+
+Tip: the calculator has little space. If it gets full, only send the games you want to play right now,
+and keep the rest on your computer.
+
 ## How to install a game (short version)
 
 1. Open the game's page and download its `.py` file.
