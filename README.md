@@ -29,6 +29,12 @@ Every game is free, has its own page with a full guide, and was tested on a real
 
 Click a game to open its page. Each page explains the keys, the rules and the setup.
 
+## Tools
+
+| Tool | What it is |
+|---|---|
+| ☢️ [**Decay Chain Solver**](https://github.com/c2nrg9ffw2-crypto/decay-ti84-evo-t) | Type protons and neutrons, and see every decay step until the nucleus is stable. Shows half-lives and all possible ends. *Not tested on a real Evo-T yet.* |
+
 ## How to install a game (short version)
 
 1. Open the game's page and download its `.py` file.
