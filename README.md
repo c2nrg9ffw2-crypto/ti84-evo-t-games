@@ -33,7 +33,7 @@ Click a game to open its page. Each page explains the keys, the rules and the se
 
 | Tool | What it is |
 |---|---|
-| ☢️ [**Decay Chain Solver**](https://github.com/c2nrg9ffw2-crypto/decay-ti84-evo-t) | Type protons and neutrons, and see every decay step until the nucleus is stable. Shows half-lives and all possible ends. *Not tested on a real Evo-T yet.* |
+| ☢️ [**Decay Chain Solver**](https://github.com/c2nrg9ffw2-crypto/decay-ti84-evo-t) | Type a nucleus like U 238 and see every decay step until it is stable. Shows half-lives, every other way and all possible ends. |
 
 ## How to install a game (short version)
 
